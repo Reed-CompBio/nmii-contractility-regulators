@@ -26,11 +26,11 @@ If you have trouble viewing the networks in Chrome, try Firefox or Safari browse
 
 ### Code
 
-
+There are three directories that contain the code (`src/`), the `inputs`, and the `outputs` of the methods. More information is provided in each sub-directory.
 
 ### Developer's Notes
 
-This codebase is a cleaned-up version of Reed College's Computational Systems Biology (Biol331) Fall 2017 course, which developed the three algorithms described in the paper. Several paper co-authors were in that class and thus contributed to the code, the initial candidates, and preliminary results and discussion. While the code was re-run with updated interactomes and streamlined by Anna Ritz, the original algorithms remained intact. Thanks to the co-authors of that class:
+This codebase is a cleaned-up version of Reed College's Computational Systems Biology (Biol331) Fall 2017 course final project, which developed the three algorithms described in the paper. Several paper co-authors were in that class and thus contributed to the code, the initial candidates, and preliminary results and discussion. While the code was re-run with updated interactomes and streamlined by Anna Ritz, the original algorithms remained intact. Thanks to the co-authors of that class:
 
 - Miriam Bern
 - Wyatt Gormley
